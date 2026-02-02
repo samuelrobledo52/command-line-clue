@@ -1,3 +1,4 @@
+<img width="1146" height="662" alt="Juego terminado" src="https://github.com/user-attachments/assets/3c23d08c-3b5a-4d14-bb40-946d6737b4a9" />
 # Command Line Clue 🕵️‍
 
 Mystery in the Small Town is a command-line investigation game designed to practice basic Linux terminal navigation and file exploration skills.
