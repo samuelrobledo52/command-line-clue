@@ -61,3 +61,4 @@ Weapon: Letter Opener
 Location: art room
 
 The accusation was verified successfully using the accuse.py script.
+
