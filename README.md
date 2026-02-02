@@ -62,4 +62,5 @@ Weapon: Letter Opener
 Location: art room
 
 The accusation was verified successfully using the accuse.py script.
-<img width="1146" height="662" alt="Juego terminado" src="https://github.com/user-attachments/assets/d95f688d-aa58-4a03-9300-1161c7358591" />
+
+<img width="1146" height="662" alt="Juego terminado" src="https://github.com/user-attachments/assets/177cf042-15d4-45a3-98b7-894f4b2c41d5" />
