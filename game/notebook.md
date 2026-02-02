@@ -1,16 +1,30 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
-- [ ] The Teacher
+- [X] The Shopkeeper
+- [X] The Teacher
 - [ ] The Journalist
 
 ## Weapons
-- [ ] Old Key
-- [ ] Fountain Pen
+- [x] Old Key
+- [x] Fountain Pen
 - [ ] Letter Opener
 
 ## Notes
-*Use this space to record your findings and deductions...*
+The crime took place in an empty room.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+The cottage was completely empty, including both the cellar and the living room.
+
+The Shopkeeper was found in the library at the mansion.
+
+The Teacher was found in the gymnasium at the school.
+
+The Old Key was found in the shops.
+
+By process of elimination, the only remaining suspect is The Journalist and the only remaining weapon is the Letter Opener.
+
+## Final Deduction
+Suspect: The Journalist 
+Weapon: Letter Opener 
+Location: Living room
+
