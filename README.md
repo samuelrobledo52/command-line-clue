@@ -56,9 +56,10 @@ python3 accuse.py "Suspect" "Weapon" "Location"
  Final Solution
 Suspect: The Journalist
 
+
 Weapon: Letter Opener
 
 Location: art room
 
 The accusation was verified successfully using the accuse.py script.
-
+<img width="1146" height="662" alt="Juego terminado" src="https://github.com/user-attachments/assets/d95f688d-aa58-4a03-9300-1161c7358591" />
